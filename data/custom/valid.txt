@@ -1,1 +1,14 @@
-data/custom/images/train.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/94.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/95.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/39.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/93.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/65.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/78.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/9.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/18.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/75.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/73.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/77.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/34.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/59.jpg
+/disk/users/nserra/YOLOv3/PyTorch-YOLOv3/data/custom/images/20.jpg
